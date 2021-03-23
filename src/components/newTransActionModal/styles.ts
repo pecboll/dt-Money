@@ -77,7 +77,7 @@ height: 4rem;
     border-radius: 0.25rem;
 
     background: ${(props => props.isActive
-         ? transparentize(0.4, colors[props.activeColor])
+         ? transparentize(0.8, colors[props.activeColor])
          : 'transparent'
          
          )};
