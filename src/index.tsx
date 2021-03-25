@@ -24,7 +24,7 @@ createServer({
           title: 'freelance de website',
           type: 'withdraw',
           category: 'trabalho',
-          amount: -100, 
+          amount: 100, 
           createdAt: new Date('2022-02-12'),
         }
       ]
